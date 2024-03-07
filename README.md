@@ -14,7 +14,7 @@ N/A
 
 ## Credits
 
-[N/A](https://github.com/coding-boot-camp/urban-octo-telegram) for the original code.
+[github.com/coding-boot-camp](https://github.com/coding-boot-camp/urban-octo-telegram) for the original code.
 
 ## License
 
